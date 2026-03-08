@@ -28,7 +28,7 @@ This repository takes a **Java → Python** bridging approach, making it ideal f
 <table>
 <tr>
 <td>01.</td>
-<td><a href="01_python_essentials" title="Module 01">Module 01 — Python Essentials</a></td>
+<td><a href="https://github.com/pmoschos/ai-for-developers/tree/main/01_python_essentials" title="Module 01">Module 01 — Python Essentials</a></td>
 </tr>
 <tr>
 <td>02.</td>
